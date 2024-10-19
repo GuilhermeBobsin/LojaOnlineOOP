@@ -1,0 +1,14 @@
+c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\bin\Debug\net8.0\LojaOnlineOOP.exe
+C:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\bin\Debug\net8.0\LojaOnlineOOP.deps.json
+C:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\bin\Debug\net8.0\LojaOnlineOOP.runtimeconfig.json
+c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\bin\Debug\net8.0\LojaOnlineOOP.dll
+c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\bin\Debug\net8.0\LojaOnlineOOP.pdb
+c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\LojaOnlineOOP.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\LojaOnlineOOP.AssemblyInfoInputs.cache
+c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\LojaOnlineOOP.AssemblyInfo.cs
+c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\LojaOnlineOOP.csproj.CoreCompileInputs.cache
+c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\LojaOnlineOOP.dll
+c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\refint\LojaOnlineOOP.dll
+c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\LojaOnlineOOP.pdb
+C:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\LojaOnlineOOP.genruntimeconfig.cache
+C:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\ref\LojaOnlineOOP.dll
