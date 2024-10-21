@@ -46,7 +46,6 @@ public class Cliente
         Contato = contato;
     }
 
-
     public void ExibirInformacoes()
     {
        Console.WriteLine($"Nome do cliente: {Nome}");

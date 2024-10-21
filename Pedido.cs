@@ -3,7 +3,7 @@ public class Pedido : ICarreavel
     public Cliente Cliente { get; private set; }
     public DateTime DataPedido { get; private set; }
     public StatusPedido Status { get; private set; }
-    private List<Produto> Produtos { get; set; }
+    public List<Produto> Produtos { get; set; }
 
     public Pedido(Cliente cliente)
     {
@@ -55,21 +55,8 @@ public class Pedido : ICarreavel
         }
 
         Status = StatusPedido.Concluído;
-        Console.WriteLine("Pedido finalizado com sucesso!");
     }
-
-
-
-
 }
-
-
-
-
-
-
-
-
 
 public enum StatusPedido
 {

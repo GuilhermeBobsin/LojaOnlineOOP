@@ -12,3 +12,4 @@ c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\refint\
 c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\LojaOnlineOOP.pdb
 C:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\LojaOnlineOOP.genruntimeconfig.cache
 C:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\ref\LojaOnlineOOP.dll
+c:\Users\gebas\OneDrive\Área de Trabalho\LojaOnlineOOP\obj\Debug\net8.0\LojaOnlineOOP.sourcelink.json
