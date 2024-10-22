@@ -1,8 +1,7 @@
-Console.Clear();
 Loja minhaLoja = new Loja();
 
-
 var produtoFisico = new ProdutoFisico("Camisa", 49.90m, 0.5, new Dimensoes(10, 20, 5), "Vestuário", 10);
+// produtoFisico.AdicionarEstoque(20);
 
 minhaLoja.CadastrarProduto(produtoFisico);
 Console.WriteLine($"Estoque do produto {produtoFisico.Nome}: {produtoFisico.Estoque} unidades!");
@@ -16,7 +15,7 @@ minhaLoja.CadastrarCliente(cliente1);
 
 Console.WriteLine("\n");
 var pedido = minhaLoja.CriarPedido(cliente1); 
-pedido.AdicionarProduto(produtoFisico); 
+pedido.AdicionarProduto(produtoFisico);
 pedido.AdicionarProduto(produtoDigital); 
 var total = pedido.CalcularTotal(); 
 Console.WriteLine($"Total do pedido: {total:F2}"); 
@@ -32,3 +31,4 @@ minhaLoja.ListarClientes();
 Console.WriteLine("Lista de pedidos:");
 minhaLoja.ListarPedidos();
 
+// cliente1.ExibirInformacoes();

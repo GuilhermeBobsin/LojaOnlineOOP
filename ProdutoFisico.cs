@@ -77,7 +77,6 @@ public class ProdutoFisico : Produto
         throw new ArgumentException("Não há estoque suficiente para remover.");
         _estoque -= quantidade;
         Console.WriteLine($"{quantidade} unidades de {Nome} removidas do estoque. Estoque atual: {Estoque}");
-        Console.WriteLine();
     }
 
 }

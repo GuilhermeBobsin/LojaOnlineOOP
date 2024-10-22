@@ -119,7 +119,6 @@ public class Loja
             return;
         }
 
-        // Verifica se todos os produtos físicos têm estoque suficiente
         foreach (var produto in pedido.Produtos)
         {
             if (produto is ProdutoFisico fisico)
@@ -127,22 +126,21 @@ public class Loja
                 if (fisico.Estoque <= 0)
                 {
                     Console.WriteLine($"Produto {fisico.Nome} não disponível!");
-                    return; // Retorna se algum produto não estiver disponível
+                    return; 
                 }
             }
         }
 
-        // Atualiza o estoque dos produtos físicos
         foreach (var produto in pedido.Produtos)
         {
             if (produto is ProdutoFisico fisico)
             {
-                fisico.RemoverEstoque(1); // Remove 1 unidade do estoque
+                fisico.RemoverEstoque(1); 
             }
         }
 
-        pedido.FinalizarPedido(); // Atualiza o status do pedido
-        Console.WriteLine("Pedido concluído com sucesso!"); // Exibe mensagem de sucesso
+        pedido.FinalizarPedido(); 
+        Console.WriteLine("Pedido concluído com sucesso!"); 
     }
 
     public void ListarPedidos()

@@ -26,5 +26,4 @@ public class ProdutoDigital : Produto
         decimal precoFinal = Preco - valorDesconto;
         return precoFinal;
     }
-
 }

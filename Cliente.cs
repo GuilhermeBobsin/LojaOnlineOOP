@@ -48,10 +48,10 @@ public class Cliente
 
     public void ExibirInformacoes()
     {
-       Console.WriteLine($"Nome do cliente: {Nome}");
-       Console.WriteLine($"Número de identificação: {NumeroIdentificacao}");
-       Console.WriteLine($"Endereço: {Endereco}");
-       Console.WriteLine($"Contato: {Contato.Telefone} \n Email: {Contato.Email}");
+        Console.WriteLine($"Nome do cliente: {Nome}");
+        Console.WriteLine($"Número de identificação: {NumeroIdentificacao}");
+        Console.WriteLine($"Endereço: {Endereco}");
+        Console.WriteLine($"Contato: {Contato.Telefone} \n Email: {Contato.Email}");
     }
 }
 
